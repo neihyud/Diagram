@@ -1,20 +1,23 @@
-<mxfile host="app.diagrams.net" modified="2024-01-15T14:35:11.237Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="OpodlRRjPCuqntHU7N-m" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-17T00:16:34.800Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="BXDLBlIGjeF54ZeJey_Q" version="22.1.19" type="github">
   <diagram name="Page-1" id="jSnImsQVBS-U-DyEPKUJ">
     <mxGraphModel dx="1386" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="574UG1OwyKNgdvOq7Hsw-1" value="Kubernetes" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="574UG1OwyKNgdvOq7Hsw-1" value="Kubernetes" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="90" y="90" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="574UG1OwyKNgdvOq7Hsw-2" value="Test: Jest" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="574UG1OwyKNgdvOq7Hsw-2" value="Test: Jest" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="90" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="574UG1OwyKNgdvOq7Hsw-3" value="Web socket" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="574UG1OwyKNgdvOq7Hsw-3" value="Web socket" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="90" y="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="574UG1OwyKNgdvOq7Hsw-4" value="RabbitMQ" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="574UG1OwyKNgdvOq7Hsw-4" value="RabbitMQ" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jrdDUGs91x5iK7OxKFQf-1" value="Pomodoro in PC&amp;nbsp;&amp;nbsp;associate flashcard -&amp;gt; recall ( 25p -&amp;gt; nhảy 1 từ )" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="450" width="230" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
